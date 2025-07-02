@@ -6,6 +6,13 @@ Este projeto consiste em uma **tela de login elegante e funcional**, desenvolvid
 
 ---
 
+## 🎯 Ponto de Destaque
+
+🔐 O botão "mostrar/ocultar senha" é totalmente funcional e atualiza dinamicamente o ícone do olho, usando `textContent` do Material Symbols.  
+Essa pequena funcionalidade reflete atenção à **usabilidade** e boas práticas modernas de UI.
+
+---
+
 ## 🌐 Demonstração
 
 🔗 [Acesse o projeto online](https://jessica-fuentess.github.io/Projeto-Login/)
@@ -62,13 +69,6 @@ A interface de login foi desenvolvida utilizando:
 ├── 📄 script.js # Script de interação com a senha
 
 └── 📄 README.md # Documentação do projeto
-
----
-
-## 🎯 Ponto de Destaque
-
-🔐 O botão "mostrar/ocultar senha" é totalmente funcional e atualiza dinamicamente o ícone do olho, usando `textContent` do Material Symbols.  
-Essa pequena funcionalidade reflete atenção à **usabilidade** e boas práticas modernas de UI.
 
 ---
 
