@@ -1,6 +1,6 @@
 # 🔐 Projeto Login – Tela Moderna, Responsiva e Interativa
 
-Este projeto consiste em uma **tela de login elegante e funcional**, desenvolvida com **HTML5**, **CSS3** e **JavaScript**, simulando o acesso a um sistema real. Com foco em **design moderno, responsividade e interatividade**, a interface oferece uma experiência fluida para dispositivos móveis e desktops.
+Este projeto consiste em uma **tela de login elegante e funcional**, desenvolvida com **HTML5**, **CSS3** e **JavaScript**, simulando o acesso a um sistema real. Com foco em **design moderno, responsividade e interatividade**, a interface oferece uma experiência fluida para dispositivos móveis, tablet e desktops.
 
 > 💡 O projeto foi criado com o objetivo de praticar conceitos de **responsividade com media queries**, **interação com campos de entrada** e **boas práticas de UI/UX**.
 
@@ -8,7 +8,7 @@ Este projeto consiste em uma **tela de login elegante e funcional**, desenvolvid
 
 ## 🌐 Demonstração
 
-🔗 [Acesse o projeto online](https://jessica-fuentess.github.io/Projeto-Login)
+🔗 [Acesse o projeto online](https://jessica-fuentess.github.io/Projeto-Login/)
 
 ---
 
