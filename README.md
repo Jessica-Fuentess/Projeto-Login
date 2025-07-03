@@ -54,21 +54,16 @@ A interface de login foi desenvolvida utilizando:
 
 ## 📁 Estrutura do Projeto
 
+```bash
 📂 Projeto-Login/
-
 ├── 📁 imagens/
-
-│ └── faviconprojeto.png # Favicon da página
-
-│ └── login.jpg # Imagem exibida na interface
-
-├── 📄 index.html # Página principal
-
-├── 📄 style.css # Estilo da interface
-
-├── 📄 script.js # Script de interação com a senha
-
-└── 📄 README.md # Documentação do projeto
+│   ├── faviconprojeto.png    # Favicon da página
+│   └── login.jpg             # Imagem exibida na interface
+├── 📄 index.html             # Página principal
+├── 📄 style.css              # Estilo da interface
+├── 📄 script.js              # Script de interação com a senha
+└── 📄 README.md              # Documentação do projeto
+```
 
 ---
 
