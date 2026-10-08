@@ -69,8 +69,7 @@ A interface de login foi desenvolvida utilizando:
 
 ## 👩‍💻 Autora
 
-Desenvolvido por **Jéssica Fuentes** 💜  
-Desenvolvedora Front-end em transição de carreira, apaixonada por construir interfaces modernas, acessíveis e responsivas.
+Desenvolvido por **Jéssica Fuentes**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-fuentes/)  
 🔗 [GitHub](https://github.com/Jessica-Fuentess)
